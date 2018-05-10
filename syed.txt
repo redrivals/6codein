@@ -1,0 +1,3 @@
+The Hospital Managment system 'HMS 'is a project which deals with the managment of appointments of the patients, which also include easy selection of preferred doctors. A patient also gets an option of pre booking of doctors and a payment option the payment opyion includes , Pay Now and Pay Later. In hospital managment sysytem the phone number is the primary key. It helps for the best finding of the patient details.
+ Whereas, the HMS will help in reducing the work load and save paper work.
+The main aim of the project is to reduce the paperwork and increase efficiency.
